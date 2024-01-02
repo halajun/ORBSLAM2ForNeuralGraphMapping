@@ -1,0 +1,48 @@
+
+./Examples/RGB-D/rgbd_scannet Vocabulary/ORBvoc.txt Examples/RGB-D/scannet-0000-0059-0106-0207.yaml /home/jun/Data/scannet_data/scene0000_00
+./Examples/RGB-D/rgbd_scannet Vocabulary/ORBvoc.txt Examples/RGB-D/scannet-0000-0059-0106-0207.yaml /home/jun/Data/scannet_data/scene0059_00
+./Examples/RGB-D/rgbd_scannet Vocabulary/ORBvoc.txt Examples/RGB-D/scannet-0000-0059-0106-0207.yaml /home/jun/Data/scannet_data/scene0106_00
+./Examples/RGB-D/rgbd_scannet Vocabulary/ORBvoc.txt Examples/RGB-D/scannet-0000-0059-0106-0207.yaml /home/jun/Data/scannet_data/scene0207_00
+./Examples/RGB-D/rgbd_scannet Vocabulary/ORBvoc.txt Examples/RGB-D/scannet-0169.yaml /home/jun/Data/scannet_data/scene0169_00
+./Examples/RGB-D/rgbd_scannet Vocabulary/ORBvoc.txt Examples/RGB-D/scannet-0181.yaml /home/jun/Data/scannet_data/scene0181_00
+./Examples/RGB-D/rgbd_scannet Vocabulary/ORBvoc.txt Examples/RGB-D/scannet-0054.yaml /home/jun/Data/scannet_data/scene0054_00
+
+---------------------------------------------------------------------------------------------------------------------------
+
+./Examples/RGB-D/replica Vocabulary/ORBvoc.txt Examples/RGB-D/replica.yaml /home/jun/Data/Replica/office0
+./Examples/RGB-D/replica Vocabulary/ORBvoc.txt Examples/RGB-D/replica.yaml /home/jun/Data/Replica/office1
+./Examples/RGB-D/replica Vocabulary/ORBvoc.txt Examples/RGB-D/replica.yaml /home/jun/Data/Replica/office2
+./Examples/RGB-D/replica Vocabulary/ORBvoc.txt Examples/RGB-D/replica.yaml /home/jun/Data/Replica/office3
+./Examples/RGB-D/replica Vocabulary/ORBvoc.txt Examples/RGB-D/replica.yaml /home/jun/Data/Replica/office4
+./Examples/RGB-D/replica Vocabulary/ORBvoc.txt Examples/RGB-D/replica.yaml /home/jun/Data/Replica/room0
+./Examples/RGB-D/replica Vocabulary/ORBvoc.txt Examples/RGB-D/replica.yaml /home/jun/Data/Replica/room1
+./Examples/RGB-D/replica Vocabulary/ORBvoc.txt Examples/RGB-D/replica.yaml /home/jun/Data/Replica/room2
+./Examples/RGB-D/replica_big Vocabulary/ORBvoc.txt Examples/RGB-D/replica.yaml /home/jun/Data/Replica/apartment0
+./Examples/RGB-D/replica_big Vocabulary/ORBvoc.txt Examples/RGB-D/replica.yaml /home/jun/Data/Replica/apartment1
+./Examples/RGB-D/replica_big Vocabulary/ORBvoc.txt Examples/RGB-D/replica.yaml /home/jun/Data/Replica/apartment2
+
+---------------------------------------------------------------------------------------------------------------------------
+
+./Examples/RGB-D/rgbd_neural Vocabulary/ORBvoc.txt Examples/RGB-D/neural.yaml /home/jun/Data/neural_rgbd_data/kitchen/
+./Examples/RGB-D/rgbd_neural Vocabulary/ORBvoc.txt Examples/RGB-D/neural.yaml /home/jun/Data/neural_rgbd_data/breakfast_room/
+./Examples/RGB-D/rgbd_neural Vocabulary/ORBvoc.txt Examples/RGB-D/neural.yaml /home/jun/Data/neural_rgbd_data/complete_kitchen/
+./Examples/RGB-D/rgbd_neural Vocabulary/ORBvoc.txt Examples/RGB-D/neural.yaml /home/jun/Data/neural_rgbd_data/green_room/
+./Examples/RGB-D/rgbd_neural Vocabulary/ORBvoc.txt Examples/RGB-D/neural.yaml /home/jun/Data/neural_rgbd_data/grey_white_room/
+./Examples/RGB-D/rgbd_neural Vocabulary/ORBvoc.txt Examples/RGB-D/neural.yaml /home/jun/Data/neural_rgbd_data/morning_apartment/
+./Examples/RGB-D/rgbd_neural Vocabulary/ORBvoc.txt Examples/RGB-D/neural.yaml /home/jun/Data/neural_rgbd_data/staircase/
+./Examples/RGB-D/rgbd_neural Vocabulary/ORBvoc.txt Examples/RGB-D/neural.yaml /home/jun/Data/neural_rgbd_data/whiteroom/
+./Examples/RGB-D/rgbd_neural Vocabulary/ORBvoc.txt Examples/RGB-D/neural.yaml /home/jun/Data/neural_rgbd_data/thin_geometry/
+
+
+---------------------------------------------------------------------------------------------------------------------------
+
+./Examples/RGB-D/rgbd_kintinuous Vocabulary/ORBvoc.txt Examples/RGB-D/kintinuous.yaml /home/jun/Data/kintinuous_data/
+
+
+---------------------------------------------------------------------------------------------------------------------------
+
+
+./Examples/RGB-D/rgbd_tum Vocabulary/ORBvoc.txt Examples/RGB-D/TUM1.yaml /home/jun/Data/TUM/rgbd_dataset_freiburg1_360 Examples/RGB-D/associations/fr1_360.txt 
+./Examples/RGB-D/rgbd_tum Vocabulary/ORBvoc.txt Examples/RGB-D/TUM2.yaml /home/jun/Data/TUM/rgbd_dataset_freiburg2_desk Examples/RGB-D/associations/fr2_desk.txt 
+./Examples/RGB-D/rgbd_tum Vocabulary/ORBvoc.txt Examples/RGB-D/TUM3.yaml /home/jun/Data/TUM/rgbd_dataset_freiburg3_long_office_household Examples/RGB-D/associations/fr3_loh.txt 
+
